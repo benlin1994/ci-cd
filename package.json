@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/benlin1994/ci-cd/issues"
   },
-  "homepage": "https://github.com/benlin1994/ci-cd#readme"
+  "homepage": "https://github.com/benlin1994/ci-cd#readme",
+  "dependencies": {
+    "jest": "^26.4.2"
+  }
 }
